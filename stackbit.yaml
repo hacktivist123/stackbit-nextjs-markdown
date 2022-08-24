@@ -1,0 +1,10 @@
+stackbitVersion: ~0.5.0
+ssgName: nextjs
+nodeVersion: '16'
+cmsName: git
+pagesDir: content/pages
+assets:
+  referenceType: static
+  staticDir: public
+  uploadDir: images
+  publicPath: /

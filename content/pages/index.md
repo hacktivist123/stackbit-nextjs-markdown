@@ -2,9 +2,11 @@
 title: Home Page
 sections:
   - type: hero
-    heading: Can you make the perfect sandwich?
+    heading: Only You can you make the perfect sandwich?
     body: >
-      HandSandwich™️ is Central Southwestern Ohio's most highly attended sandwich-making class. Don't delay your ability to craft the perfect sandwich.
+      HandSandwich™️ is Central Southwestern Ohio's most highly attended
+      sandwich-making class. Don't delay your ability to craft the perfect
+      sandwich.
     button:
       label: Book Now
       url: /

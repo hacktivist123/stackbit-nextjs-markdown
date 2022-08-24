@@ -1,0 +1,14 @@
+# .stackbit/models/page.yaml
+
+type: page
+name: page
+hideContent: true
+fields:
+  - name: title
+    type: string
+    required: true
+  - name: sections
+    type: list
+    items:
+      type: model
+      models: [hero, stats]
